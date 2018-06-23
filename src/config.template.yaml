@@ -117,11 +117,11 @@ platforms:
 
   raspberrypi:
     # GPIO Pin with button connected
-    button: 18
+    button: 23
     # GPIO Pin for the playback/activity light
-    plb_light: 24
+    plb_light: 22
     # GPIO Pin for the recording light
-    rec_light: 25
+    rec_light: 27
 
   orangepi:
     # GPIO Pin with button connected
